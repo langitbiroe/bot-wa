@@ -1,0 +1,12 @@
+jangan lupa subscribe MisterAM
+
+apt update && apt upgrade (pilih "N" jika ada pilihan)
+pkg install python -y
+pkg install git
+pkg install nano 
+pip inatall requests
+git clone https://github.com/Mister-AM/SP_WA
+cd SP_WA
+python hai.py
+
+
